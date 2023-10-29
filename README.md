@@ -19,4 +19,5 @@
 
 
 ### Visitor Count
-<img src="https://profile-counter.glitch.me/anushkadeshpande/count.svg" />
+<!-- img src="https://profile-counter.glitch.me/anushkadeshpande/count.svg" / -->
+
