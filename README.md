@@ -9,9 +9,7 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
 </div>
 
-<p align="center"><a href="https://git.io/streak-stats"><img
-      src="https://github-readme-streak-stats.herokuapp.com?user=anushkadeshpande&theme=react&hide_border=true&include_all_commits=true"
-      alt="GitHub Streak" /></a></p>
+
 <table align="center">
   <tr>
     <td>
@@ -23,9 +21,12 @@
       </p>
     </td>
     <td>
-      <p> &nbsp;<img align="center"
+      <p align="center"><a href="https://git.io/streak-stats"><img
+      src="https://github-readme-streak-stats.herokuapp.com?user=anushkadeshpande&theme=react&hide_border=true&include_all_commits=true"
+      alt="GitHub Streak" /></a></p>
+<!--       <p> &nbsp;<img align="center"
           src="https://github-readme-stats-three-sage-20.vercel.app/api?username=anushkadeshpande&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true"
-          alt="anushkadeshpande" /> </p>
+          alt="anushkadeshpande" /> </p> -->
     </td>
   </tr>
 </table>
