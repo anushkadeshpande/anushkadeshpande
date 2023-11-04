@@ -18,17 +18,16 @@
       <p>
         &nbsp;
         <img align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkadeshpande&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"
+          src="https://github-readme-stats-three-sage-20.vercel.app/api/top-langs?username=anushkadeshpande&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"
           alt="anushkadeshpande" />
       </p>
     </td>
     <td>
       <p> &nbsp;<img align="center"
-          src="https://github-readme-stats.vercel.app/api?username=anushkadeshpande&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true"
+          src="https://github-readme-stats-three-sage-20.vercel.app/api?username=anushkadeshpande"
           alt="anushkadeshpande" /> </p>
     </td>
   </tr>
 </table>
-
 <!-- ### Visitor Count  -->
 <!-- img src="https://profile-counter.glitch.me/anushkadeshpande/count.svg" / -->
