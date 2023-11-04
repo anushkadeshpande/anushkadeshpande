@@ -24,7 +24,7 @@
     </td>
     <td>
       <p> &nbsp;<img align="center"
-          src="https://github-readme-stats-three-sage-20.vercel.app/api?username=anushkadeshpande"
+          src="https://github-readme-stats-three-sage-20.vercel.app/api?username=anushkadeshpande&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true"
           alt="anushkadeshpande" /> </p>
     </td>
   </tr>
